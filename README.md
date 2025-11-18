@@ -54,19 +54,3 @@ gcc -Wall -Wextra -std=c11 *.c -o demo && ./demo
 
 Open `data/sample-telemetry.jsonl` to inspect representative console output. This is
 useful when validating your hardware wiring or cloud logging pipeline.
-
-## Additional Notes (Legacy Content)
-
-# Fusion 360 Circuit Design and PCB Manufacturing
-
-- Course: Fusion 360 Circuit Design and PCB Manufacturing
-- Author: Ashraf S A AlMadhoun
-- Link: https://www.udemy.com/course/fusion-360-crash-course/?couponCode=JULYMAXDICOUNT
-
-## Overview
-
-Design circuits and prepare PCBs using Fusion 360 workflows and fabrication steps.
-
-## Purchase With Discount
-
-Enroll using the link above to get a discounted price and manufacture robust PCBs.
